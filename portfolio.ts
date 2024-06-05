@@ -12,24 +12,24 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "FADH",
+  title: "Hi all, I'm Fadh",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
+    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Laravel, Next, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "fadhdwisamns",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:hanzla.tauqeer123@gmail.com",
-  linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
-  instagram: "https://www.instagram.com/__hanzla100",
+  email: "mailto:fadhdwisam@gmail.com",
+  linkedin: " ",
+  github: "https://github.com/fadhdwisamns",
+  instagram: "https://www.instagram.com/@lordginjer",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
 };
@@ -44,7 +44,7 @@ export const skillsSection: SkillsSectionType = {
       skills: [
         emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
         emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Building RESTful APIs in Django & Django REST Framework"),
+        emoji("⚡ Building RESTful APIs in Laravel & NodeJS REST Framework"),
       ],
       softwareSkills: [
         {
@@ -68,8 +68,8 @@ export const skillsSection: SkillsSectionType = {
           iconifyTag: "vscode-icons:file-type-light-next",
         },
         {
-          skillName: "AWS",
-          iconifyTag: "logos:aws",
+          skillName: "android",
+          iconifyTag: "logos:kotlin",
         },
         {
           skillName: "Heroku",
@@ -83,6 +83,14 @@ export const skillsSection: SkillsSectionType = {
           skillName: "Docker",
           iconifyTag: "logos:docker-icon",
         },
+        {
+          skillName: "Laravel",
+          iconifyTag: "logos:laravel",
+        },
+        {
+          skillName: "Flutter",
+          iconifyTag: "logos:flutter",
+        },
       ],
     },
   ],
@@ -91,7 +99,7 @@ export const skillsSection: SkillsSectionType = {
 export const SkillBars: SkillBarsType[] = [
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "85", //Insert relative proficiency in percentage
+    progressPercentage: "70", //Insert relative proficiency in percentage
   },
   {
     Stack: "Backend",
@@ -105,9 +113,9 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
+    schoolName: "SMAN 18",
+    subHeader: "High School",
+    duration: "2011/2012",
     desc: "",
     grade: "Grade A",
     descBullets: [], // Array of Strings
@@ -196,18 +204,18 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Fadh Dwi Samn S",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
+  author: "Fadh Dwi Samn S",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://fadh.vercel.app",
   keywords: [
     "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
+    "Fadh Dwi Samn S",
+    "@lordginjer",
+    "Fadh Dwi Samn S",
     "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Fadh Portfolio ",
+    "Fadh Dwi Samn S Portfolio",
   ],
 };
