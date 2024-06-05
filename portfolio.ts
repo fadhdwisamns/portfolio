@@ -124,16 +124,16 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: "Django Developer",
-    company: "Meganos Software",
-    companyLogo: "/img/icons/common/meganos.png",
+    role: "Full Stack Developer",
+    company: "PT Elga Yasa Media",
+    companyLogo: "/img/icons/common/elga.jpeg",
     date: "Aug 2022 - Present",
     desc: "I crafted backends for diverse web apps, APIs, and WebSockets in e-commerce, podcasts, and property management. Managed server upkeep, deployments on Linux, Heroku, and AWS S3. Implemented PyTest for automated unit and integration testing, slashing 4 hours of manual testing each sprint, fortifying a dependable and flawless code foundation.",
   },
   {
     role: "Full Stack Developer",
-    company: "Duseca Software",
-    companyLogo: "/img/icons/common/duseca_software_logo.jpeg",
+    company: "CV Unitech Indonesia",
+    companyLogo: "/img/icons/common/unicase.png",
     date: "Jan 2022 - Sept 2023",
     desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
     // descBullets: [
@@ -142,9 +142,9 @@ export const experience: ExperienceType[] = [
     // ],
   },
   {
-    role: "Full Stack Developer",
-    company: "ZRTechnologies",
-    companyLogo: "/img/icons/common/zrtech.jpeg",
+    role: "Bacjend Developer",
+    company: "PT Evolusi Teknologi Idonesia",
+    companyLogo: "/img/icons/common/evotek.png",
     date: "Aug 2022 - Jun 2023",
     desc: "Crafting diverse web applications, I've elevated functionality and user engagement. Spearheaded Visual Portfolio, leveraging AI for captivating presentations from parsed text. Proficiently set up and optimized applications on Linux servers, guaranteeing smooth scalability and top-notch performance for seamless user experiences.",
   },
