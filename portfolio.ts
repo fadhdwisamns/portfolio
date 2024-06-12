@@ -26,8 +26,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "fadhdwisam@gmail.com",
-  linkedin: " ",
+  email: "https://wa.me//6281573449408",
+  linkedin: "https://wa.me//6281573449408",
   github: "https://github.com/fadhdwisamns",
   instagram: "https://www.instagram.com/@lordginjer",
   // facebook: 'https://www.facebook.com/1hanzla100',
