@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Fadh",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Laravel, Next, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "#",
+  resumeLink: "https://cv.gethired.id/fadh-dwi-samns-fullstack-developer-739bw",
 };
 
 export const openSource = {
@@ -26,7 +26,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:fadhdwisam@gmail.com",
+  email: "fadhdwisam@gmail.com",
   linkedin: " ",
   github: "https://github.com/fadhdwisamns",
   instagram: "https://www.instagram.com/@lordginjer",
