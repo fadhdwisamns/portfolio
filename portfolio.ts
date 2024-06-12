@@ -135,7 +135,7 @@ export const experience: ExperienceType[] = [
     company: "CV Unitech Indonesia",
     companyLogo: "/img/icons/common/unicase.png",
     date: "Okt 2023 - present",
-    desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
+    desc: "Create a website from WordPress to be turned into e-commerce.",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -146,7 +146,7 @@ export const experience: ExperienceType[] = [
     company: "PT Evolusi Teknologi Idonesia",
     companyLogo: "/img/icons/common/evotek.png",
     date: "Aug 2022 - Jun 2023",
-    desc: "Crafting diverse web applications, I've elevated functionality and user engagement. Spearheaded Visual Portfolio, leveraging AI for captivating presentations from parsed text. Proficiently set up and optimized applications on Linux servers, guaranteeing smooth scalability and top-notch performance for seamless user experiences.",
+    desc: "The company PT Evolusi Teknologi Solusi or Evoteks for short provides services to customers in the field expert staff for Bank Syariah Indonesia. My position is as a backend, the activities I do while atthe company is:- migrating from the old backend to the new backend- creating applications for internal BSI.",
   },
 ];
 
